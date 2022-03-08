@@ -1,6 +1,6 @@
 
 ## My first NestJS project
-Lesson from: [React, NextJS and NestJS: A Rapid Guide - Advanced
+Leason from: [React, NextJS and NestJS: A Rapid Guide - Advanced
 ](https://www.udemy.com/course/react-nestjs-advanced)
 ## Prerequisite
 - [node](https://nodejs.dev/download/)
